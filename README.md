@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Hassan Khalid 👋
 
-<!--
-**HassanKhalid8/HassanKhalid8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Computer Engineering Undergraduate** at the GIK Institute of Engineering Sciences and Technology (Class of 2027). I am focused on mastering the fundamental principles of engineering and building robust, efficient systems.
 
-Here are some ideas to get you started:
+### 🔭 Current Focus
+- Strengthening my understanding of software architecture and algorithmic logic.
+- Exploring Digital Logic Design and the physical foundations of computing.
+- Building semester-based projects that bridge the gap between theory and implementation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Interests
+- **Systems Engineering:** Understanding how software interacts with hardware at a low level.
+- **Problem Solving:** Designing efficient solutions for complex computational problems.
+- **Digital Design:** Learning the architecture of modern processors and circuits.
+
+### 🎯 Upcoming Goals
+- **Embedded Systems:** Exploring how to program specialized hardware and microcontrollers.
+- **Operating Systems:** Learning the core logic behind memory management and process scheduling.
+- **Open Source:** Contributing to technical projects that solve real-world engineering challenges.
+- **Hardware Simulation:** Developing a deeper grasp of circuit simulation and hardware description concepts.
+
+---
+*"Engineering is the art of directing the great sources of power in nature for the use and convenience of man."*
