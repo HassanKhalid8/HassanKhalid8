@@ -21,19 +21,7 @@
 
 ## ◆ &nbsp;`whoami`
 
-```ts
-const hassan = {
-  role      : "Computer Engineering student · GIKI '27",
-  based     : "Karachi, Pakistan",
-  focus     : "AI-powered products, end-to-end — model → API → interface",
-  alsoBuilds: ["full-stack web", "ML pipelines", "embedded & signal systems"],
-  shipping  : ["Full-Stack Intern @ ENUMS", "ML Intern @ FlyRank AI"],
-  leading   : "Vice President · GIKI Media Club",
-  stats     : { yearsCoding: 3, projectsShipped: 15, coffee: "450+ cups" },
-  method    : ["scope", "prototype", "refine", "ship"],
-  openTo    : "remote roles · collaborations · anything ambitious",
-};
-```
+<img src="https://raw.githubusercontent.com/HassanKhalid8/HassanKhalid8/main/assets/whoami.svg" width="100%" alt="const hassan = { ... }"/>
 
 > I don't stop at the notebook. A model that never reaches a user isn't a product — so I take it the whole way:
 > **data → training → API → the interface someone actually touches.**
