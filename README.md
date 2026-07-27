@@ -19,7 +19,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:8B5CF6,100:22D3EE&height=3&section=header" width="100%" alt=""/>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"/> &nbsp;`whoami`
+## ◆ &nbsp;`whoami`
 
 ```ts
 const hassan = {
@@ -41,7 +41,7 @@ const hassan = {
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:8B5CF6,100:0D1117&height=3&section=header" width="100%" alt=""/>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"/> &nbsp;The Build Pipeline
+## ◆ &nbsp;The Build Pipeline
 
 ```mermaid
 %%{init: {'theme':'dark','themeVariables':{'primaryColor':'#1E1B33','primaryTextColor':'#E2E8F0','primaryBorderColor':'#8B5CF6','lineColor':'#22D3EE','fontFamily':'monospace'}}}%%
@@ -56,7 +56,7 @@ flowchart LR
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:8B5CF6,100:22D3EE&height=3&section=header" width="100%" alt=""/>
 
-## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28"/> &nbsp;Arsenal
+## ◆ &nbsp;Arsenal
 
 <div align="center">
 
@@ -97,7 +97,7 @@ flowchart LR
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:8B5CF6,100:0D1117&height=3&section=header" width="100%" alt=""/>
 
-## <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="28"/> &nbsp;Flagship Builds
+## ◆ &nbsp;Flagship Builds
 
 <table>
 <tr>
@@ -169,7 +169,7 @@ LFM pulse compression, MTI clutter suppression, 2D range-Doppler FFT and **adapt
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:8B5CF6,100:22D3EE&height=3&section=header" width="100%" alt=""/>
 
-## <img src="https://media.giphy.com/media/ZgTR3UQ9XAWDvqy9jv/giphy.gif" width="28"/> &nbsp;Telemetry
+## ◆ &nbsp;Telemetry
 
 <div align="center">
 
@@ -192,7 +192,7 @@ LFM pulse compression, MTI clutter suppression, 2D range-Doppler FFT and **adapt
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:8B5CF6,100:0D1117&height=3&section=header" width="100%" alt=""/>
 
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"/> &nbsp;Certified
+## ◆ &nbsp;Certified
 
 <div align="center">
 
@@ -201,19 +201,13 @@ LFM pulse compression, MTI clutter suppression, 2D range-Doppler FFT and **adapt
 <img src="https://img.shields.io/badge/Claude_Code_101-Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
 <img src="https://img.shields.io/badge/IC_Design_Summer_School-DreamBig-8B5CF6?style=for-the-badge"/>
 
-</div>
+<br/><br/>
 
-```console
-$ hassan --status
-[ ████████████████████░░░░ ]  final-year engineering · GIKI '27
-[ ██████████████████████░░ ]  ML models → production
-[ ███████████████████████░ ]  full-stack workflow, sharpened
-[ ░░░░░░░░░░░░░░░░░░░░░░░░ ]  your project — slot open ↓
-```
+<img src="https://raw.githubusercontent.com/HassanKhalid8/HassanKhalid8/main/assets/status.svg" width="100%" alt="Current status"/>
 
-<div align="center">
+<br/><br/>
 
-### <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="28"/> &nbsp;Let's build something
+### Let's build something
 
 <a href="mailto:hassank8125@gmail.com"><img src="https://img.shields.io/badge/Say_hi-hassank8125@gmail.com-8B5CF6?style=for-the-badge&logo=minutemailer&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/hassankhalid8/"><img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
